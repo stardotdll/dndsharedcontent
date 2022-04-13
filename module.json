@@ -1,0 +1,104 @@
+{
+    "name": "dndsharedcontent",
+    "title": "DnD Shared Content",
+    "description": "A collection of my content.",
+    "version": "2.0.0",
+    "author": "stardotdll & Tristan",
+    "minimumCoreVersion": "0.7.5",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        {
+            "name": "monsters",
+            "label": "Shared Monsters",
+            "path": "./packs/monsters.db",
+            "entity": "Actor"
+        },
+		{
+            "name": "npcs",
+            "label": "Shared NPCs",
+            "path": "./packs/npcs.db",
+            "entity": "Actor"
+        },
+        {
+            "name": "items",
+            "label": "Shared Items",
+            "path": "./packs/items.db",
+            "entity": "Item"
+        },
+	{
+            "name": "spells",
+            "label": "Shared Spells",
+            "path": "./packs/spells.db",
+            "entity": "Item"
+        },
+        {
+            "name": "scenes",
+            "label": "Shared Scenes",
+            "path": "./packs/scenes.db",
+            "entity": "Scene"
+        },
+        {
+            "name": "journal-entries",
+            "label": "Shared Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "macros",
+            "label": "Shared Macros",
+            "path": "./packs/macros.db",
+            "entity": "Macro"
+        },
+        {
+            "name": "roll-tables",
+            "label": "Shared Roll Tables",
+            "path": "./packs/roll-tables.db",
+            "entity": "RollTable"
+        },
+		{
+            "name": "classes",
+            "label": "Shared Classes",
+            "path": "./packs/classes.db",
+            "entity": "Item"
+        },
+		{
+            "name": "races",
+            "label": "Shared Races",
+            "path": "./packs/races.db",
+            "entity": "Item"
+        },
+		{
+            "name": "racial-features",
+            "label": "Shared Racial Features",
+            "path": "./packs/racial-features.db",
+            "entity": "Item"
+        },
+		{
+            "name": "class-features",
+            "label": "Shared Class Features",
+            "path": "./packs/class-features.db",
+            "entity": "Item"
+        },
+		{
+            "name": "monster-features",
+            "label": "Shared Monster Features",
+            "path": "./packs/monster-features.db",
+            "entity": "Item"
+        },
+		{
+            "name": "feats",
+            "label": "Shared Feats",
+            "path": "./packs/feats.db",
+            "entity": "Item"
+        },
+        {
+            "name": "playlists",
+            "label": "Shared Playlists",
+            "path": "./packs/playlists.db",
+            "entity": "Playlist"
+        }
+    ],
+    "url": "https://github.com/stardotdll/dndsharedcontent",
+    "manifest": "",
+    "download": ""
+  }
