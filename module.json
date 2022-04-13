@@ -1,8 +1,8 @@
 {
-    "name": "dndsharedcontent",
+    "name": "my-shared-content",
     "title": "DnD Shared Content",
-    "description": "A collection of my content.",
-    "version": "2.0.1",
+    "description": "A collection of DnD Shared content.",
+    "version": "2.0.2",
     "author": "stardotdll & Tristan",
     "minimumCoreVersion": "0.7.5",
     "compatibleCoreVersion": "9",
@@ -98,7 +98,7 @@
             "entity": "Playlist"
         }
     ],
-    "url": "https://github.com/stardotdll/dndsharedcontent",
-    "manifest": "https://github.com/stardotdll/dndsharedcontent/releases/download/2.0.1/module.json",
-    "download": "https://github.com/stardotdll/dndsharedcontent/releases/download/2.0.1/dndsharedcontent.zip"
+    "url": "https://github.com/stardotdll/my-shared-content",
+    "manifest": "https://github.com/stardotdll/my-shared-content/releases/download/2.0.2/module.json",
+    "download": "https://github.com/stardotdll/my-shared-content/releases/download/2.0.2/my-shared-content.zip"
   }
